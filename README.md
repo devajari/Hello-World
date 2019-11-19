@@ -1,2 +1,3 @@
 # Hello-World
-Perinteinen aloitus
+Perinteinen aloitus on vanhanaikainen, mutta siis perinteinen
+Mennään sillä
